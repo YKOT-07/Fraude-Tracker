@@ -235,7 +235,7 @@ def afficher_graphe(
 
 if __name__ == "__main__":
 
-    N = 10
+    N = 1000
     p = (math.log(N) + 5) / N
 
     print("=" * 70)
